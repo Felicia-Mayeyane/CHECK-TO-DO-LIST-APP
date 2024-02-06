@@ -1,4 +1,4 @@
-# TO-DO-LIST
+# CHECK TO-DO-LIST
 <h1>An interactive to do list.</h1>
 
 🚀 <strong> Tech Stack: </strong>
